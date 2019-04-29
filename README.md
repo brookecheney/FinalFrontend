@@ -1,5 +1,8 @@
 # game-central
 
+
+ See https://github.com/brookecheney/FinalGraphqlserver first
+
 ## Project setup
 ```
 npm install
@@ -27,3 +30,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+ Seehttps://github.com/brookecheney/FinalGraphqlserver
