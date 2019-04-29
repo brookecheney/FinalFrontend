@@ -1,7 +1,7 @@
 # game-central
 
 
- See https://github.com/brookecheney/FinalGraphqlserver first
+ See https://github.com/brookecheney/GraphQL-Prisma-SERVER first
 
 ## Project setup
 ```
